@@ -39,4 +39,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathew-Seliverstov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Codewars](https://www.codewars.com/users/Mathew_Seli/badges/large)
   
