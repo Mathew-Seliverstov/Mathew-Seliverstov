@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=9B51E0&lines=Welcome+to+my+GitHub+profile!;My+name+is+Mathew)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&lines=Welcome+to+my+github+profile!;My+name+is+Matvei+Seliverstov)](https://git.io/typing-svg)
 
 
 ## Skills stack
@@ -37,8 +37,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathew-Seliverstov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Codewars](https://www.codewars.com/users/Mathew_Seli/badges/large)
-  
+
