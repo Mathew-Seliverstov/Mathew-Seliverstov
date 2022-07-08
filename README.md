@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&lines=Welcome+to+my+github+profile!;My+name+is+Matvei+Seliverstov)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=6000&width=500&height=60&lines=Welcome+to+my+github+profile!;My+name+is+Matvei+Seliverstov)](https://git.io/typing-svg)
 
 
 ## Skills stack
